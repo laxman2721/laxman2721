@@ -125,9 +125,7 @@ const sriLaxman = {
 <div align="center">
   <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter_Advanced-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
 ---
