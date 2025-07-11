@@ -174,7 +174,7 @@ Other        1 min          ░░░░░░░░░░░░░░░░░�
 👯 I'm looking to collaborate on **Open source projects**  
 🤔 I'm looking for help with **System Design & Architecture**  
 💬 Ask me about **React, Flutter, Python, Web Development**  
-📫 How to reach me: **yourmail@example.com**  
+📫 How to reach me: **laxman272103@gmail.com**  
 ⚡ Fun fact: **I can code for hours with just coffee and good music! ☕🎵**  
 
 </div>
