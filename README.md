@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/learning mode.gif" width="30px"> Hey there✌️ I'm **Sri Laxman** 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/success.gif" width="30px"> Hey there✌️ I'm **Sri Laxman** 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;B.Sc.+Computer+Science+Student+%F0%9F%8E%93;React+%26+Flutter+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
