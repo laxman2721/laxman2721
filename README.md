@@ -38,10 +38,10 @@ const sriLaxman = {
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Backend Development  
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,firebase" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,firebase" />
 
 ### Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 
 ### Tools & Others
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
