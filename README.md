@@ -130,7 +130,7 @@ const sriLaxman = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] 🚀 Launch 3 major projects
 - [ ] 📱 Publish first Flutter app on Play Store
