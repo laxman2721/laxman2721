@@ -44,7 +44,7 @@ const sriLaxman = {
 <img src="https://skillicons.dev/icons?i=flutter" />
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
