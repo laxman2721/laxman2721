@@ -66,7 +66,7 @@ const sriLaxman = {
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_NGM_College-B.Sc._Computer_Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_NGM_College-B.Sc.Cs_with_AI&ML-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📅_Year-3rd_Year-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍_Location-Coimbatore,_Tamil_Nadu-orange?style=for-the-badge" />
 </div>
