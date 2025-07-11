@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srilaxman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=laxman2721&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Coimbatore-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
@@ -78,25 +78,25 @@ const sriLaxman = {
 <div align="center">
 
 ### 🌟 **Portfolio Website**
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/yourusername/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/laxman2721/portfolio)
 > A responsive personal website built with **HTML, CSS, and JavaScript**. Features smooth animations, dark mode toggle, and mobile-first design.
 
 ### 📱 **ToDo App**
-[![Flutter App](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/yourusername/todo-app)
+[![Flutter App](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/laxman2721/todo-app)
 > Cross-platform app using **Flutter** and **Firebase** for backend. Supports real-time sync, offline mode, and beautiful UI.
 
 ### 🛒 **E-Commerce Web App**
-[![React App](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/yourusername/ecommerce-app)
+[![React App](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/laxman2721/ecommerce-app)
 > Built with **React**, featuring product listing, shopping cart, user authentication, and responsive design.
 
 ### 🎨 **AI Art Generator**
-[![AI Project](https://img.shields.io/badge/AI-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/yourusername/ai-art-generator)
+[![AI Project](https://img.shields.io/badge/AI-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/laxman2721/ai-art-generator)
 > Mini project that converts user input into AI-generated images using machine learning APIs.
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/laxman2721?tab=repositories">
     <img src="https://img.shields.io/badge/View%20More%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -106,16 +106,16 @@ const sriLaxman = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxman2721&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxman2721&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman2721&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laxman2721&theme=tokyonight&row=1&column=6" />
 </div>
 
 ---
@@ -158,7 +158,7 @@ Other        1 min          ░░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxman2721)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
@@ -220,6 +220,6 @@ Other        1 min          ░░░░░░░░░░░░░░░░░�
 
 ⭐️ **If you like my work, please consider giving a star!** ⭐️
 
-[![](https://visitcount.itsvg.in/api?id=srilaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=laxman2721&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
