@@ -35,7 +35,7 @@ const sriLaxman = {
 <div align="center">
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Backend Development  
 <img src="https://skillicons.dev/icons?i=python,nodejs,express,firebase" />
