@@ -21,7 +21,7 @@
 const sriLaxman = {
     location: "Coimbatore, Tamil Nadu 🌴",
     education: "B.Sc.Cs with AI&ML 3rd Year @ NGM College 🎓",
-    currentlyLearning: ["Advanced React", "Node.js", "MongoDB", "Flutter"],
+    currentlyLearning: ["Advanced React", "Node.js",  "Flutter"],
     funFact: "I debug with console.log() and I'm proud of it! 😄",
     askMeAbout: ["Web Development", "React", "Flutter", "Python", "UI/UX"],
     hobbies: ["Coding 💻", "Learning New Tech 🚀", "Problem Solving 🧩"]
